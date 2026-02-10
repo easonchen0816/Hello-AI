@@ -1,2 +1,2 @@
 # Hello-AI
-this as Hollow AI duck. A repo help you with besic LLM enference workflew.
+This is a Hello AI duck. A repo help you with basic LLM inference workflow.
